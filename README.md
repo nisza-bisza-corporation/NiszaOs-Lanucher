@@ -2,7 +2,7 @@
 
 A premium, high-performance, open-source Android TV launcher built from scratch by **NiszaBisza Corporation**. 
 
-NiszaOS is engineered specifically to eliminate ad-bloated layouts, privacy-invasive tracking, and low-effort "AI slop" templates. It brings a luxury, human-crafted visual experience heavily inspired by high-end glassmorphic design guidelines, fully optimized to run fluidly at 60 FPS on older hardware like **Android 9 (API 28)** and **TCL TVs**.
+NiszaOS is engineered specifically to eliminate ad-bloated layouts, privacy-invasive tracking, and low-effort "AI slop" templates. It brings a luxury, human-crafted visual experience heavily inspired by high-end glassmorphic design guidelines edited with ai , fully optimized to run fluidly at 60 FPS on older hardware like **Android 9 (API 28)** and **TCL TVs**.
 
 ---
 
@@ -14,8 +14,6 @@ Real-time backdrop blurring can destroy the performance of affordable TV process
 ### 🎯 Focus Motion & Remote Physics
 Ditch flat, boring rectangles. Every selection card in NiszaOS uses continuous superellipse curves (Squircle geometry) that dynamically react to your TV remote. When focused, tiles softly scale up and cast multi-layered ambient shadows to create true physical depth.
 
-### 🛸 Icon Pack Matte Engine
-Standard TV apps look great, but sideloaded smartphone apps often appear stretched and broken. Our custom engine automatically extracts 1:1 graphics from any standard Android Icon Pack and beautifully centers them inside luxury 16:9 NiszaOS glass tiles with generous breathing room (whitespace).
 
 ### 🛰️ Native AirPlay Destination Shortcut
 Integrate your favorite casting utilities seamlessly. The built-in AirPlay menu shortcut scans your system for receivers (such as AirScreen or CastReceiver), links your preferred app, and updates its summary dynamic label. Click it on the home screen to cast instantly.
@@ -40,8 +38,7 @@ NiszaOS is completely **free, open-source, and strictly ad-free**. We believe so
 
 If NiszaOS saved your sanity and made your TV setup look incredibly premium, please consider backing our independent development team! Since we protect our privacy and do not use traditional banking systems, we accept anonymous corporate donations via **Cryptocurrency**:
 
-* 🪙 **Bitcoin (BTC):** `YOUR_BITCOIN_WALLET_ADDRESS_HERE`
-* ⚓ **USDT / USD Coin (TRC20):** `YOUR_USDT_TRC20_WALLET_ADDRESS_HERE`
+
 
 *Your support directly funds our developer coffee, testing hardware, and keeps the NiszaBisza ecosystem completely independent. Thank you for keeping open-source clean and beautiful!* 🙏
 
